@@ -6,16 +6,6 @@ This project is meant to practice site builds and javascript from this [Pluralsi
 
 Starter files used [here](https://github.com/pluralsight/web-dev-starter).
 
-## Project Structure and Details
-
-TODO
-
-# Test Site Playground
-## Purpose
-This project is meant to practice site builds and javascript from this Pluralsight course and beyond.
-
-Starter files used here.
-
 ## Notes from the starter file Project:
 
 - You will need to have Node installed to start this environment. If you are not sure if you have Node installed run `node -v` in your terminal. If you do not see a version number output, install Node before moving on.
